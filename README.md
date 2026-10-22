@@ -1,2 +1,2 @@
 # DGVLM
-DGVLM and AID-CC dataset is coming soon!
+DGVLM and AID-CC are coming soon!
